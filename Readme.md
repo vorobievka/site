@@ -2,8 +2,7 @@
 
 ### Computer science student.
 
-![](https://github.com/vorobievka/site/blob/main/docs/assets/img/img.jpg)
-![](/site/assets/img.jpg)
+![](https://raw.githubusercontent.com/vorobievka/site/main/img.png)
 
 This is my first blog post.
 
